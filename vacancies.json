@@ -1,0 +1,92 @@
+[
+  {
+    "_Vacancy__title": "Программист",
+    "_Vacancy__url": "https://hh.ru/vacancy/83911479",
+    "_Vacancy__description": "Ответственный подход к работе с конфиденциальной информацией. Опыт работы с SQL базами данных. Навыки работы с криптографическими алгоритмами.\nПеренос данных из Google Таблицы в SQL базу данных. Шифрование данных в SQL базе данных. Защита базы от несанкционированного доступа. ",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Стажер-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/83969133",
+    "_Vacancy__description": "None\nна какую программу подал заявку? 4. После этого будет техническое собеседование с командой по выбранному направлению. Без этой информации, к...",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Java-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/83951935",
+    "_Vacancy__description": "Знание ООП. <highlighttext>Java</highlighttext> 11. Stream API. Spring Boot, JPA (Hibernate), SQL. Понимание REST API. Умение работать с Git. \nРазработка нового функционала(сервисов, CRUD, REST API). Доработка имеющегося функционала. Исправление ошибок.",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Frontend-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/83551839",
+    "_Vacancy__description": "Знание Русского-языка. - Никакой магии и \"оно как то само работает\" только код и стабильная работа, только хардкор. - \nNone",
+    "_Vacancy__salary": {
+      "from": 7000000,
+      "to": 9800000
+    }
+  },
+  {
+    "_Vacancy__title": "Java developer",
+    "_Vacancy__url": "https://hh.ru/vacancy/72297265",
+    "_Vacancy__description": "Опыт коммерческой разработки от 1 года. Уверенные знания <highlighttext>Java</highlighttext>. Знание базовых алгоритмов и структур данных. Навыки работы с базами данных. \nNone",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Java-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/83931939",
+    "_Vacancy__description": "Опыт разработки микросервисной архитектуры. - Опыт работы с NoSQL базами данных (кластерные варианты). - Опыт в проектировании высоконагруженных ИТ-решений на базе...\nПостроение и модернизация распределенных высоконагруженных систем. - Разработка и модернизация архитектуры, выбор, обоснование и согласование ключевых решений. - Проектирование и модернизация ИТ...",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Стажер-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/82631531",
+    "_Vacancy__description": "Python от 3.7. FastApi/Flask. Postgresql, Sqlalchemy. Docker, git. Selenium: HTML/CSS/React преимущество. Библиотеки для разработки телеграм-ботов. \nРазвивать применение ИИ для автоматизации и оптимизации рабочих процессов внутри компании.",
+    "_Vacancy__salary": {
+      "from": 40000,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Web-программист - стажер",
+    "_Vacancy__url": "https://hh.ru/vacancy/83285184",
+    "_Vacancy__description": "Основы программирования HTML&CSS. Базовые понимания в javascript. Теорию работы больших систем. Как поменять значения двух переменных не используя третью...\nРазрабатывать фронтенд веб приложений на ReactJs, React Native и VueJs. Понимать, как устроен RESTfull API, его правильное проектирование и разработка. ",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Junior Java Developer",
+    "_Vacancy__url": "https://hh.ru/vacancy/83827515",
+    "_Vacancy__description": "Successfully completed <highlighttext>Java</highlighttext> development courses. Basic understanding of core programming concepts and object-oriented programming (OOP) principles. Knowledge of <highlighttext>Java</highlighttext>...\nParticipate in a structured training program to deep <highlighttext>Java</highlighttext> programming concepts, tools, and frameworks. Learn and follow coding best practices...",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 0
+    }
+  },
+  {
+    "_Vacancy__title": "Младший Java-разработчик",
+    "_Vacancy__url": "https://hh.ru/vacancy/83947338",
+    "_Vacancy__description": "Делаем только то, что будет востребовано – никакой работы в стол или на потом. Гибкость в подходах и инструментах – команда сама...\nАнализ, исправление небольших ошибок в работе системы (просмотр и анализ логов, данных в БД). Доработка системы таким образом, чтобы системные...",
+    "_Vacancy__salary": {
+      "from": 0,
+      "to": 80000
+    }
+  }
+]
